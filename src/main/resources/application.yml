@@ -1,0 +1,5 @@
+server:
+  port: 9191
+
+ws:
+  url: wss://ws-api.vshuodata.com/connect?key=联系我们获取key
