@@ -2,4 +2,4 @@ server:
   port: 9191
 
 ws:
-  url: wss://ws-api.stock.top/connect?key=联系我们获取key
+  url: wss://ws-api.stocktv.top/connect?key=联系我们获取key
